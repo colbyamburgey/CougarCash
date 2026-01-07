@@ -1,0 +1,7 @@
+{
+  "name": "Cougar Cash...",
+  "description": "A high school attendance tracking and rewards application. Tracks daily attendance points with weighted days and special events, featuring a student store and admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
